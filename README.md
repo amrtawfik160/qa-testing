@@ -19,6 +19,12 @@ It stays safe by default: no sending, publishing, purchasing, or touching real d
 ## Install
 
 ```sh
+npx skills add amrtawfik160/qa-testing
+```
+
+Listed on [skills.sh](https://skills.sh/amrtawfik160/qa-testing/qa-testing). Or install by hand:
+
+```sh
 git clone https://github.com/amrtawfik160/qa-testing ~/.agents/skills/qa-testing
 ```
 
